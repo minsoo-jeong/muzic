@@ -20,7 +20,7 @@ We have provide the [script](binarize.sh) to generate binarized data. The script
 
 ```bash
 data_dir=./data/train/processed/
-user_dir=meloformt
+user_dir=meloform
 bash binarize.sh $data_dir $user_dir
 ```
 
